@@ -1,1 +1,1 @@
-Ngspice and opensource PDKs
+Experimenting with ngspice and open source PDKs
